@@ -40,7 +40,7 @@ I am a passionate **Full Stack Developer** with over **6 years of experience** d
 ## 🌐 Connect With Me  
 - **LinkedIn:** [Aaqibhafeez Khan](https://www.linkedin.com/in/aaqibhafeez-khan-891b7aa4/)  
 - **GitHub:** [Aaqibhafeez Khan](https://github.com/AaqibhafeezKhan)  
-- **Tech Accounts:** [[Aaqibhafeez Khan](https://my-tech-accounts.vercel.app/)
+- **Tech Accounts:** [Aaqibhafeez Khan](https://my-tech-accounts.vercel.app/)
 
 ---
 
