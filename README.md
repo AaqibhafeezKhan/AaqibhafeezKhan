@@ -1,50 +1,81 @@
----
-
 # 👋 Hello, I'm Aaqibhafeez Khan!  
-🌟 **Full Stack Developer | Problem Solver & Troubleshooter | Lifelong Learner**
+**🌟 Full Stack Developer | Architect of Scalable Solutions | Code Alchemist**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2)](https://www.linkedin.com/in/aaqibhafeez-khan-891b7aa4/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717)](https://github.com/AaqibhafeezKhan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4D4D4D)](https://my-tech-accounts.vercel.app/)
 
 ---
 
-## 💡 About Me  
-I am a passionate **Full Stack Developer** with over **6 years of experience** designing, developing, and managing web applications. My journey has been defined by a commitment to building robust, user-friendly solutions that blend cutting-edge technology with seamless functionality.  
+## 🚀 Technical Arsenal
 
-💻 **Proficient In:**  
-- **Frontend:** React.js, Angular, TypeScript, Next.js, JavaScript, HTML5, CSS3, Bootstrap  
-- **Backend:** Spring Boot, Node.js, Java  
-- **Database:** MongoDB, PostgreSQL  
+### **Frontend Mastery**  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
 
-⚙️ **Tools:** VS Code, IntelliJ, Jira, Postman, GitHub, Bitbucket, Confluence  
-🌍 **Platforms:** Ubuntu, Windows  
+### **Backend Expertise**  
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 
----
-
-## 🔑 Career Highlights  
-- **Eshop & Ecare Projects:** Developed and enhanced SPAs for personalized account management and e-commerce.  
-- **Roaming Cockpit Features:** Delivered features for roaming rate plans using AngularJS and REST APIs.  
-- **Last Mile & ShipOption:** Improved user interfaces, onboarding speed, and payment tracking.  
-- **Augmented Reality Tensor:** Built an AR-based Android app integrated with 3D building models.  
-
-🏆 Awards:  
-- **Bravo Award** (Tech Mahindra, March 2022)  
-- **Pat on Back Award** (Tech Mahindra, February 2023)  
+### **Data Ecosystem**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
 ---
 
-## 🔭 Current Focus  
-- **Exploring New Horizons:** Constantly learning and implementing cutting-edge tools and technologies.  
-- **Collaborative Innovation:** Thrilled to work on challenging projects with like-minded professionals.  
+## 💡 Value Generator
+
+### **Key Achievements**
+- 🛍️ **Eshop Platform:** Architected SPA handling 50k+ monthly transactions with React/Spring Boot
+- 📱 **AR Tensor Project:** Built Android AR navigation system with 95% geolocation accuracy
+- 🚚 **Last Mile Optimization:** Reduced onboarding time by 40% through UI/UX enhancements
+- 🌐 **Roaming Cockpit:** Delivered 15+ API integrations for telecom rate management
+
+### **Industry Recognition**
+🏆 **Bravo Award** (Top 5% Performers) | Tech Mahindra • 2022  
+🏅 **Pat on Back Award** (Innovation Champion) | Tech Mahindra • 2023
 
 ---
 
+## 🔭 Next-Gen Focus
 
-## 🌐 Connect With Me  
-- **LinkedIn:** [Aaqibhafeez Khan](https://www.linkedin.com/in/aaqibhafeez-khan-891b7aa4/)  
-- **GitHub:** [Aaqibhafeez Khan](https://github.com/AaqibhafeezKhan)  
-- **Tech Accounts:** [Aaqibhafeez Khan](https://my-tech-accounts.vercel.app/)
+- **Emerging Tech:** Experimenting with AI/ML integration in full-stack workflows
+- **Performance Art:** Mastering advanced techniques in React optimization
+- **Cloud Native:** Exploring AWS & Docker for scalable deployments
+- **Open Source:** Contributing to developer tools ecosystem
 
 ---
 
-## ⚡ Fun Fact  
-I love tackling complex challenges, whether it's debugging intricate code or solving brain-teasing puzzles.  
+## 🛠️ Development Philosophy
 
-Let's connect and create something amazing together! 🚀
+> "Code is poetry when balanced between elegance and efficiency"  
+> - Focus on clean architecture patterns  
+> - Advocate for test-driven development  
+> - Obsessed with performance metrics  
+> - Continuous integration evangelist
+
+---
+
+## 📬 Collaboration Channels
+
+[![Email](https://img.shields.io/badge/Contact%20Me-aaqibhafeez.khan@example.com-%23EA4335)](mailto:aaqibhafeez.khan@example.com)
+[![LinkedIn](https://img.shields.io/badge/Professional%20Network-%230A66C2)](https://www.linkedin.com/in/aaqibhafeez-khan-891b7aa4/)
+[![GitHub](https://img.shields.io/badge/Code%20Repository-%23181717)](https://github.com/AaqibhafeezKhan)
+
+---
+
+## ⚡ Cognitive Fuel
+
+- ♟️ Chess enthusiast with 1600+ ELO rating
+- 🧩 Daily LeetCode problem solver (200+ streak)
+- 📚 Tech book collector (Favorite: "Clean Architecture" by Uncle Bob)
+- ☕ Specialty coffee homebrewing expert
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AaqibhafeezKhan&show_icons=true&theme=radical)
+
+**Let's architect the future together!** 🚀
