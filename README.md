@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2)](https://www.linkedin.com/in/aaqibhafeez-khan-891b7aa4/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717)](https://github.com/AaqibhafeezKhan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4D4D4D)](https://my-tech-accounts.vercel.app/)
+[![TechAccounts](https://img.shields.io/badge/Portfolio-Visit-4D4D4D)](https://my-tech-accounts.vercel.app/)
 
 ---
 
@@ -61,20 +61,12 @@
 
 ## 📬 Collaboration Channels
 
-[![Email](https://img.shields.io/badge/Contact%20Me-aaqibhafeez.khan@example.com-%23EA4335)](mailto:aaqibhafeez.khan@example.com)
+[![Email](https://img.shields.io/badge/Contact%20Me-aaqibhafeez.khan@example.com-%23EA4335)](mailto:aaqibhafeezkhan@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Professional%20Network-%230A66C2)](https://www.linkedin.com/in/aaqibhafeez-khan-891b7aa4/)
 [![GitHub](https://img.shields.io/badge/Code%20Repository-%23181717)](https://github.com/AaqibhafeezKhan)
 
 ---
 
-## ⚡ Cognitive Fuel
-
-- ♟️ Chess enthusiast with 1600+ ELO rating
-- 🧩 Daily LeetCode problem solver (200+ streak)
-- 📚 Tech book collector (Favorite: "Clean Architecture" by Uncle Bob)
-- ☕ Specialty coffee homebrewing expert
-
----
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AaqibhafeezKhan&show_icons=true&theme=radical)
 
