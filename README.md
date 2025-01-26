@@ -61,7 +61,7 @@
 
 ## 📬 Collaboration Channels
 
-[![Email](https://img.shields.io/badge/Contact%20Me-aaqibhafeez.khan@example.com-%23EA4335)](mailto:aaqibhafeezkhan@gmail.com)
+[![Email](https://img.shields.io/badge/Contact%20Me-aaqibhafeezkhan@gmail.com-%23EA4335)](mailto:aaqibhafeezkhan@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Professional%20Network-%230A66C2)](https://www.linkedin.com/in/aaqibhafeez-khan-891b7aa4/)
 [![GitHub](https://img.shields.io/badge/Code%20Repository-%23181717)](https://github.com/AaqibhafeezKhan)
 
