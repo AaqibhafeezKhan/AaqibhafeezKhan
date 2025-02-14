@@ -26,20 +26,6 @@
 
 ---
 
-## 💡 Value Generator
-
-### **Key Achievements**
-- 🛍️ **Eshop Platform:** Architected SPA handling 50k+ monthly transactions with React/Spring Boot
-- 📱 **AR Tensor Project:** Built Android AR navigation system with 95% geolocation accuracy
-- 🚚 **Last Mile Optimization:** Reduced onboarding time by 40% through UI/UX enhancements
-- 🌐 **Roaming Cockpit:** Delivered 15+ API integrations for telecom rate management
-
-### **Industry Recognition**
-🏆 **Bravo Award** (Top 5% Performers) | Tech Mahindra • 2022  
-🏅 **Pat on Back Award** (Innovation Champion) | Tech Mahindra • 2023
-
----
-
 ## 🔭 Next-Gen Focus
 
 - **Emerging Tech:** Experimenting with AI/ML integration in full-stack workflows
