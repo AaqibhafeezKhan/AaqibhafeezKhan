@@ -50,7 +50,7 @@
 [![Email](https://img.shields.io/badge/Contact%20Me-aaqibhafeezkhan@gmail.com-%23EA4335)](mailto:aaqibhafeezkhan@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Professional%20Network-%230A66C2)](https://www.linkedin.com/in/aaqibhafeez-khan-891b7aa4/)
 [![GitHub](https://img.shields.io/badge/Code%20Repository-%23181717)](https://github.com/AaqibhafeezKhan?tab=repositories)
-IMDb Poll Author - https://myimdbpolls.netlify.app/
+[![IMDb](https://img.shields.io/badge/IMDb-%23F5C518?style=for-the-badge&logo=imdb&logoColor=black)]([https://www.imdb.com/](https://myimdbpolls.netlify.app/))
 
 ---
 
