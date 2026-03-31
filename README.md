@@ -14,7 +14,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaqibhafeez-khan-891b7aa4/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AaqibhafeezKhan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://https://aaqibhafeezkhan-tech-accounts.vercel.app//)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://https://aaqibhafeezkhan-tech-accounts.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaqibhafeezkhan@gmail.com)
 [![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=AaqibhafeezKhan.AaqibhafeezKhan&style=for-the-badge&color=6C63FF)](https://github.com/AaqibhafeezKhan)
 
@@ -157,7 +157,7 @@ fun_fact: I treat every pull request like a published piece of writing ✍️
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-my--tech--accounts.vercel.app-6C63FF?style=for-the-badge)](https://https://aaqibhafeezkhan-tech-accounts.vercel.app//)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-my--tech--accounts.vercel.app-6C63FF?style=for-the-badge)](https://https://aaqibhafeezkhan-tech-accounts.vercel.app/)
 [![IMDb Polls](https://img.shields.io/badge/🎬_IMDb_Polls-myimdbpolls.netlify.app-F5C518?style=for-the-badge)](https://myimdbpolls.netlify.app/)
 [![Repositories](https://img.shields.io/badge/📦_All_Repos-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AaqibhafeezKhan?tab=repositories)
 
