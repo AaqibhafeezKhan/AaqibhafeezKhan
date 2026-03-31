@@ -11,9 +11,10 @@
 <br/>
 
 <!-- Social Badges -->
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaqibhafeez-khan-891b7aa4/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AaqibhafeezKhan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://my-tech-accounts.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://https://aaqibhafeezkhan-tech-accounts.vercel.app//)
 [![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaqibhafeezkhan@gmail.com)
 [![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=AaqibhafeezKhan.AaqibhafeezKhan&style=for-the-badge&color=6C63FF)](https://github.com/AaqibhafeezKhan)
 
@@ -24,14 +25,14 @@
 ## 🧬 About Me
 
 ```yaml
-name        : Aaqibhafeez Khan
-role        : Full Stack Developer | Architect of Scalable Solutions
-location    : 🌍 India
-philosophy  : "Code is poetry when balanced between elegance and efficiency"
-focus       : Clean Architecture · TDD · Performance · CI/CD · AI Integration
-superpower  : Turning complex problems into elegant, maintainable systems
-available   : ✅ Open to Freelance, Remote & Full-Time Opportunities
-fun_fact    : I treat every pull request like a published piece of writing ✍️
+name: Aaqibhafeez Khan
+role: Full Stack Developer | Architect of Scalable Solutions
+location: 🌍 India
+philosophy: "Code is poetry when balanced between elegance and efficiency"
+focus: Clean Architecture · TDD · Performance · CI/CD · AI Integration
+superpower: Turning complex problems into elegant, maintainable systems
+available: ✅ Open to Freelance, Remote & Full-Time Opportunities
+fun_fact: I treat every pull request like a published piece of writing ✍️
 ```
 
 ---
@@ -80,13 +81,13 @@ fun_fact    : I treat every pull request like a published piece of writing ✍�
 
 ## 🔭 Currently Building & Exploring
 
-| Area | Focus |
-|------|-------|
-| 🤖 **AI/ML Integration** | Embedding LLM intelligence into full-stack workflows & APIs |
-| ⚡ **React Performance** | Advanced memoization, Suspense, Server Components |
-| ☁️ **Cloud Native** | AWS + Docker + Kubernetes for elastic, cost-efficient deployments |
-| 🔓 **Open Source** | Contributing to developer tooling & community libraries |
-| 📐 **Clean Architecture** | Domain-driven design in microservices |
+| Area                      | Focus                                                             |
+| ------------------------- | ----------------------------------------------------------------- |
+| 🤖 **AI/ML Integration**  | Embedding LLM intelligence into full-stack workflows & APIs       |
+| ⚡ **React Performance**  | Advanced memoization, Suspense, Server Components                 |
+| ☁️ **Cloud Native**       | AWS + Docker + Kubernetes for elastic, cost-efficient deployments |
+| 🔓 **Open Source**        | Contributing to developer tooling & community libraries           |
+| 📐 **Clean Architecture** | Domain-driven design in microservices                             |
 
 ---
 
@@ -128,8 +129,8 @@ fun_fact    : I treat every pull request like a published piece of writing ✍�
 
 <div align="center">
 
-| 🎯 Impact-Driven | 🛠️ Full Ownership | 🤝 Collaborative | ⚡ Fast Delivery |
-|:---:|:---:|:---:|:---:|
+|                          🎯 Impact-Driven                          |                        🛠️ Full Ownership                        |                  🤝 Collaborative                   |                     ⚡ Fast Delivery                      |
+| :----------------------------------------------------------------: | :-------------------------------------------------------------: | :-------------------------------------------------: | :-------------------------------------------------------: |
 | I ship features that move the needle — not just code that compiles | End-to-end ownership from architecture to production deployment | Clear communication, async-first, timezone-flexible | Efficient, test-covered PRs with zero hand-holding needed |
 
 </div>
@@ -140,7 +141,7 @@ fun_fact    : I treat every pull request like a published piece of writing ✍�
 
 <div align="center">
 
-> *"Code is poetry when balanced between elegance and efficiency"*
+> _"Code is poetry when balanced between elegance and efficiency"_
 
 </div>
 
@@ -156,7 +157,7 @@ fun_fact    : I treat every pull request like a published piece of writing ✍�
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-my--tech--accounts.vercel.app-6C63FF?style=for-the-badge)](https://my-tech-accounts.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-my--tech--accounts.vercel.app-6C63FF?style=for-the-badge)](https://https://aaqibhafeezkhan-tech-accounts.vercel.app//)
 [![IMDb Polls](https://img.shields.io/badge/🎬_IMDb_Polls-myimdbpolls.netlify.app-F5C518?style=for-the-badge)](https://myimdbpolls.netlify.app/)
 [![Repositories](https://img.shields.io/badge/📦_All_Repos-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AaqibhafeezKhan?tab=repositories)
 
@@ -168,7 +169,7 @@ fun_fact    : I treat every pull request like a published piece of writing ✍�
 
 ### 💬 Let's Build Something Great Together!
 
-*Available for freelance projects, remote roles, and technical collaborations.*
+_Available for freelance projects, remote roles, and technical collaborations._
 
 [![Email Me](https://img.shields.io/badge/📬_Email_Me-aaqibhafeezkhan@gmail.com-EA4335?style=for-the-badge)](mailto:aaqibhafeezkhan@gmail.com)
 [![Book a Call](https://img.shields.io/badge/📅_Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aaqibhafeez-khan-891b7aa4/)
