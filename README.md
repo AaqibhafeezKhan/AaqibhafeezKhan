@@ -158,7 +158,7 @@ fun_fact: I treat every pull request like a published piece of writing ✍️
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-my--tech--accounts-6C63FF?style=for-the-badge)](https://aaqibhafeezkhan-tech-accounts.vercel.app/)
-[![IMDb Polls](https://img.shields.io/badge/🎬_IMDb_Polls-myimdbpolls.netlify.app-F5C518?style=for-the-badge)](https://myimdbpolls.netlify.app/)
+[![IMDb Polls](https://img.shields.io/badge/🎬_IMDb_Polls-myimdbpolls-F5C518?style=for-the-badge)](https://myimdbpolls.netlify.app/)
 [![Repositories](https://img.shields.io/badge/📦_All_Repos-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AaqibhafeezKhan?tab=repositories)
 
 </div>
