@@ -100,8 +100,8 @@ fun_fact:    I treat every pull request like a published piece of writing ✍️
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AaqibhafeezKhan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=00D4FF&text_color=C9D1D9"/>
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=AaqibhafeezKhan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=00D4FF&text_color=C9D1D9"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AaqibhafeezKhan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=A855F7&icon_color=00D4FF&text_color=C9D1D9"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=AaqibhafeezKhan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=A855F7&icon_color=00D4FF&text_color=C9D1D9"/>
 </picture>
 
 <picture>
@@ -110,8 +110,8 @@ fun_fact:    I treat every pull request like a published piece of writing ✍️
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AaqibhafeezKhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&langs_count=8"/>
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaqibhafeezKhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&langs_count=8"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AaqibhafeezKhan&layout=compact&theme=tokyonight&hide_border=true&title_color=A855F7&text_color=C9D1D9&langs_count=8"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaqibhafeezKhan&layout=compact&theme=tokyonight&hide_border=true&title_color=A855F7&text_color=C9D1D9&langs_count=8"/>
 </picture>
 
 </div>
@@ -146,7 +146,7 @@ fun_fact:    I treat every pull request like a published piece of writing ✍️
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=AaqibhafeezKhan&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10&margin-h=15&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=AaqibhafeezKhan&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=10&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
