@@ -77,13 +77,12 @@ fun_fact:    I treat every pull request like a published piece of writing ✍️
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AaqibhafeezKhan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaqibhafeezKhan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AaqibhafeezKhan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&cache_seconds=1800" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaqibhafeezKhan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
 
 <br/><br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=AaqibhafeezKhan&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=6C63FF&fire=00D4FF&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=C9D1D9" />
+<img width="96%" src="https://streak-stats.demolab.com?user=AaqibhafeezKhan&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=6C63FF&fire=00D4FF&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=C9D1D9" />
 
 </div>
 
@@ -117,7 +116,7 @@ fun_fact:    I treat every pull request like a published piece of writing ✍️
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AaqibhafeezKhan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" width="100%" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AaqibhafeezKhan&theme=radical&no-frame=true&row=1&column=6" width="100%" alt="GitHub Trophies"/>
 
 </div>
 
@@ -130,6 +129,21 @@ fun_fact:    I treat every pull request like a published piece of writing ✍️
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
+
+---
+
+## ⏱️ This Week I Coded In
+
+<!--START_SECTION:waka-->
+> WakaTime stats will appear here once the `waka.yml` workflow is enabled with your `WAKATIME_API_KEY` secret.
+<!--END_SECTION:waka-->
+
+---
+
+## 📅 Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
