@@ -143,6 +143,10 @@ fun_fact:    I treat every pull request like a published piece of writing ✍️
 ## 📅 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/aaqibkhanmph/Pega-component-builder/pull/2) in [aaqibkhanmph/Pega-component-builder](https://github.com/aaqibkhanmph/Pega-component-builder)
+2. 💪 Opened PR [#2](https://github.com/aaqibkhanmph/Pega-component-builder/pull/2) in [aaqibkhanmph/Pega-component-builder](https://github.com/aaqibkhanmph/Pega-component-builder)
+3. 🎉 Merged PR [#1](https://github.com/aaqibkhanmph/Pega-component-builder/pull/1) in [aaqibkhanmph/Pega-component-builder](https://github.com/aaqibkhanmph/Pega-component-builder)
+4. 💪 Opened PR [#1](https://github.com/aaqibkhanmph/Pega-component-builder/pull/1) in [aaqibkhanmph/Pega-component-builder](https://github.com/aaqibkhanmph/Pega-component-builder)
 <!--END_SECTION:activity-->
 
 ---
