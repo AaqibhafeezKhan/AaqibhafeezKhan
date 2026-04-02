@@ -77,12 +77,12 @@ fun_fact:    I treat every pull request like a published piece of writing ✍️
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AaqibhafeezKhan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&cache_seconds=1800" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaqibhafeezKhan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AaqibhafeezKhan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&card_width=400" alt="GitHub Stats" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaqibhafeezKhan&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 <br/><br/>
 
-<img width="96%" src="https://streak-stats.demolab.com?user=AaqibhafeezKhan&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=6C63FF&fire=00D4FF&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=C9D1D9" />
+<img width="96%" src="https://streak-stats.demolab.com?user=AaqibhafeezKhan&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=6C63FF&fire=00D4FF&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
 
 </div>
 
@@ -116,7 +116,14 @@ fun_fact:    I treat every pull request like a published piece of writing ✍️
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AaqibhafeezKhan&theme=radical&no-frame=true&row=1&column=6" width="100%" alt="GitHub Trophies"/>
+![Stars](https://img.shields.io/github/stars/AaqibhafeezKhan?style=for-the-badge&logo=github&color=A855F7&labelColor=0D1117&label=Total%20Stars)
+![Followers](https://img.shields.io/github/followers/AaqibhafeezKhan?style=for-the-badge&logo=github&color=6C63FF&labelColor=0D1117&label=Followers)
+![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&color=00D4FF&labelColor=0D1117&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAaqibhafeezKhan)
+![Gists](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&color=F5C518&labelColor=0D1117&label=Public%20Gists&query=%24.public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAaqibhafeezKhan)
+
+<br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AaqibhafeezKhan&theme=onestar&no-frame=true&row=1&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
