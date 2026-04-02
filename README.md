@@ -26,7 +26,7 @@
 ```yaml
 name:        Aaqibhafeez Khan
 role:        Full Stack Developer | Architect of Scalable Solutions
-location:    🌍 India
+location:    🌍 Mumbai, India
 philosophy:  "Code is poetry when balanced between elegance and efficiency"
 focus:       Clean Architecture · TDD · Performance · CI/CD · AI Integration
 superpower:  Turning complex problems into elegant, maintainable systems
@@ -42,41 +42,19 @@ fun_fact:    I treat every pull request like a published piece of writing ✍️
 
 ### 🎨 Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=react,angular,nextjs,ts,js,html,css,tailwind&theme=dark)](https://skillicons.dev)
 
 ### ⚙️ Backend
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=spring,nodejs,java,python,graphql,express&theme=dark)](https://skillicons.dev)
 
 ### 🗄️ Data Ecosystem
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,redis,mysql,elasticsearch&theme=dark)](https://skillicons.dev)
 
 ### ☁️ DevOps & Cloud
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,terraform,vercel,linux&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -99,20 +77,13 @@ fun_fact:    I treat every pull request like a published piece of writing ✍️
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AaqibhafeezKhan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=A855F7&icon_color=00D4FF&text_color=C9D1D9"/>
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=AaqibhafeezKhan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=A855F7&icon_color=00D4FF&text_color=C9D1D9"/>
-</picture>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AaqibhafeezKhan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaqibhafeezKhan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AaqibhafeezKhan&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=6C63FF&fire=00D4FF&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=C9D1D9"/>
-  <img height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=AaqibhafeezKhan&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=6C63FF&fire=00D4FF&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=C9D1D9"/>
-</picture>
+<br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AaqibhafeezKhan&layout=compact&theme=tokyonight&hide_border=true&title_color=A855F7&text_color=C9D1D9&langs_count=8"/>
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaqibhafeezKhan&layout=compact&theme=tokyonight&hide_border=true&title_color=A855F7&text_color=C9D1D9&langs_count=8"/>
-</picture>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=AaqibhafeezKhan&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=6C63FF&fire=00D4FF&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=C9D1D9" />
 
 </div>
 
@@ -146,7 +117,17 @@ fun_fact:    I treat every pull request like a published piece of writing ✍️
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=AaqibhafeezKhan&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=10&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=AaqibhafeezKhan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" width="100%" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 💡 Dev Quote of the Day
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
