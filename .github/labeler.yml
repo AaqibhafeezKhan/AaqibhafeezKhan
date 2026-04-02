@@ -1,0 +1,33 @@
+documentation:
+  - changed-files:
+    - any-glob-to-any-file: ["**.md", "docs/**"]
+
+github-actions:
+  - changed-files:
+    - any-glob-to-any-file: [".github/workflows/**"]
+
+configuration:
+  - changed-files:
+    - any-glob-to-any-file:
+      - "*.yml"
+      - "*.yaml"
+      - "*.json"
+      - "*.toml"
+      - ".env*"
+
+frontend:
+  - changed-files:
+    - any-glob-to-any-file:
+      - "**.tsx"
+      - "**.jsx"
+      - "**.css"
+      - "**.scss"
+      - "**.html"
+
+backend:
+  - changed-files:
+    - any-glob-to-any-file:
+      - "**.java"
+      - "**.py"
+      - "**.ts"
+      - "**.js"
