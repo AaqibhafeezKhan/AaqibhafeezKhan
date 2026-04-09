@@ -1,3 +1,5 @@
+![Countdown](countdown2026-7ub5hrots-aaqibhafeez-khans-projects.vercel.app/api/countdown)
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:A855F7,100:00D4FF&height=240&section=header&text=Aaqibhafeez%20Khan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Code%20Alchemist%20%7C%20Problem%20Solver&descSize=18&descAlignY=60&animation=fadeIn&stroke=A855F7&strokeWidth=1" width="100%"/>
