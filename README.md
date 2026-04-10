@@ -8,10 +8,10 @@
 
 <br/>
 
-<a href="https://evergreen-countdown.vercel.app/">
-  <img src="https://evergreen-countdown.vercel.app/api/countdown.svg" alt="Countdown" />
-</a>
-
+<div align="center">
+  <img src="https://evergreen-countdown.vercel.app/api/countdown" alt="Live Countdown" />
+  <br />
+</div>
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaqibhafeez-khan-891b7aa4/)
