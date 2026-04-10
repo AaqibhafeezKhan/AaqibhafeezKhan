@@ -8,8 +8,8 @@
 
 <br/>
 
-<a href="https://countdown2026.vercel.app/">
-  <img src="https://countdown2026.vercel.app/api/countdown.svg" alt="Countdown" />
+<a href="https://evergreen-countdown.vercel.app/">
+  <img src="https://evergreen-countdown.vercel.app/api/countdown.svg" alt="Countdown" />
 </a>
 
 <br/>
