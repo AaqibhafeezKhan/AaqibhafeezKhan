@@ -9,7 +9,7 @@
 <br/>
 
 <a href="https://countdown2026.vercel.app/">
-  <img src="https://countdown2026.vercel.app/api/countdown" alt="Countdown" />
+  <img src="https://countdown2026.vercel.app/api/countdown.svg" alt="Countdown" />
 </a>
 
 <br/>
