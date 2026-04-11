@@ -210,3 +210,5 @@ _Available for freelance projects, remote roles, and technical collaborations._
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:A855F7,100:6C63FF&height=150&section=footer&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
 </div>
+
+[![committers.top badge](https://user-badge.committers.top/india/AaqibhafeezKhanUSERNAME.svg)](https://user-badge.committers.top/india/AaqibhafeezKhan)
