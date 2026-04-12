@@ -88,7 +88,9 @@ fun_fact: I treat every pull request like a published piece of writing ✍️
 
 ## 📊 GitHub Analytics
 
-[![committers.top badge](https://user-badge.committers.top/india/AaqibhafeezKhan.svg)](https://user-badge.committers.top/india/AaqibhafeezKhan)
+<a href="https://github.com/AaqibhafeezKhan">
+  <img src="./assets/committers-badge.svg" alt="committers.top badge" />
+</a>
 
 <br/>
 
@@ -100,24 +102,14 @@ fun_fact: I treat every pull request like a published piece of writing ✍️
 
 <br/><br/>
 
-<img width="96%" src="https://streak-stats.demolab.com?user=AaqibhafeezKhan&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=6C63FF&fire=00D4FF&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
+<a href="https://github.com/AaqibhafeezKhan">
+  <img width="96%" src="./assets/github-streak.svg" alt="GitHub Streak" />
+</a>
 
 </div>
 
 ---
 
-<div align="center">
-
-## 🏆 GitHub Achievements
-
-![Stars Earned](https://img.shields.io/github/stars/AaqibhafeezKhan?style=for-the-badge&logo=github&color=A855F7&labelColor=0D1117&label=⭐%20Stars%20Earned)
-![Followers](https://img.shields.io/github/followers/AaqibhafeezKhan?style=for-the-badge&logo=github&color=6C63FF&labelColor=0D1117&label=👥%20Followers)
-![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&color=00D4FF&labelColor=0D1117&label=📦%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAaqibhafeezKhan)
-![Gists](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&color=F5C518&labelColor=0D1117&label=📝%20Gists&query=%24.public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAaqibhafeezKhan)
-
-</div>
-
----
 
 <div align="center">
 
@@ -127,7 +119,7 @@ fun_fact: I treat every pull request like a published piece of writing ✍️
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AaqibhafeezKhan&theme=tokyo-night&bg_color=0D1117&color=A855F7&line=00D4FF&point=ffffff&area=true&area_color=6C63FF&hide_border=true)](https://github.com/AaqibhafeezKhan)
+[![Activity Graph](./assets/activity-graph.svg)](https://github.com/AaqibhafeezKhan)
 
 </div>
 
@@ -168,7 +160,7 @@ fun_fact: I treat every pull request like a published piece of writing ✍️
 
 ## 💡 Dev Quote of the Day
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](./assets/dev-quote.svg)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
@@ -227,5 +219,3 @@ _Available for freelance projects, remote roles, and technical collaborations._
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:A855F7,100:6C63FF&height=150&section=footer&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
 </div>
-
-
