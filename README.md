@@ -211,4 +211,4 @@ _Available for freelance projects, remote roles, and technical collaborations._
 
 </div>
 
-[![committers.top badge](https://user-badge.committers.top/india/AaqibhafeezKhanUSERNAME.svg)](https://user-badge.committers.top/india/AaqibhafeezKhan)
+[![committers.top badge](https://user-badge.committers.top/india/AaqibhafeezKhan.svg)](https://user-badge.committers.top/india/AaqibhafeezKhan)
