@@ -24,6 +24,8 @@
 
 ---
 
+<div align="center">
+
 ## 🧬 About Me
 
 ```yaml
@@ -37,11 +39,13 @@ available: ✅ Open to Freelance, Remote & Full-Time Opportunities
 fun_fact: I treat every pull request like a published piece of writing ✍️
 ```
 
+</div>
+
 ---
 
-## 🚀 Technical Arsenal
-
 <div align="center">
+
+## 🚀 Technical Arsenal
 
 ### 🎨 Frontend
 
@@ -63,6 +67,8 @@ fun_fact: I treat every pull request like a published piece of writing ✍️
 
 ---
 
+<div align="center">
+
 ## 🔭 Currently Building & Exploring
 
 | Area                      | Focus                                                             |
@@ -74,15 +80,22 @@ fun_fact: I treat every pull request like a published piece of writing ✍️
 | 📐 **Clean Architecture** | Domain-driven design in microservices & hexagonal architecture    |
 | 🧠 **Agentic Systems**    | Building autonomous AI pipelines with tool-calling & RAG patterns |
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+[![committers.top badge](https://user-badge.committers.top/india/AaqibhafeezKhan.svg)](https://user-badge.committers.top/india/AaqibhafeezKhan)
+
+<br/>
 
 ![Followers](https://img.shields.io/github/followers/AaqibhafeezKhan?style=for-the-badge&logo=github&color=A855F7&labelColor=0D1117&label=Followers)
 ![Stars](https://img.shields.io/github/stars/AaqibhafeezKhan?style=for-the-badge&logo=github&color=6C63FF&labelColor=0D1117&label=Total%20Stars)
 ![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&color=00D4FF&labelColor=0D1117&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAaqibhafeezKhan)
+![Gists](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&color=F5C518&labelColor=0D1117&label=Gists&query=%24.public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAaqibhafeezKhan)
 ![Since](https://img.shields.io/badge/Coding%20Since-2017-F5C518?style=for-the-badge&logo=github&labelColor=0D1117)
 
 <br/><br/>
@@ -93,9 +106,26 @@ fun_fact: I treat every pull request like a published piece of writing ✍️
 
 ---
 
-## 📈 Contribution Activity
+<div align="center">
+
+## 🏆 GitHub Achievements
+
+![Stars Earned](https://img.shields.io/github/stars/AaqibhafeezKhan?style=for-the-badge&logo=github&color=A855F7&labelColor=0D1117&label=⭐%20Stars%20Earned)
+![Followers](https://img.shields.io/github/followers/AaqibhafeezKhan?style=for-the-badge&logo=github&color=6C63FF&labelColor=0D1117&label=👥%20Followers)
+![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&color=00D4FF&labelColor=0D1117&label=📦%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAaqibhafeezKhan)
+![Gists](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&color=F5C518&labelColor=0D1117&label=📝%20Gists&query=%24.public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAaqibhafeezKhan)
+
+</div>
+
+---
 
 <div align="center">
+
+## 📈 Contribution Activity
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
+
+<br/>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AaqibhafeezKhan&theme=tokyo-night&bg_color=0D1117&color=A855F7&line=00D4FF&point=ffffff&area=true&area_color=6C63FF&hide_border=true)](https://github.com/AaqibhafeezKhan)
 
@@ -103,9 +133,9 @@ fun_fact: I treat every pull request like a published piece of writing ✍️
 
 ---
 
-## 🐍 Contribution Snake
-
 <div align="center">
+
+## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AaqibhafeezKhan/AaqibhafeezKhan/output/github-snake-dark.svg"/>
@@ -117,22 +147,9 @@ fun_fact: I treat every pull request like a published piece of writing ✍️
 
 ---
 
-## 🏆 GitHub Achievements
-
 <div align="center">
-
-![Stars](https://img.shields.io/github/stars/AaqibhafeezKhan?style=for-the-badge&logo=github&color=A855F7&labelColor=0D1117&label=⭐%20Stars%20Earned)
-![Followers](https://img.shields.io/github/followers/AaqibhafeezKhan?style=for-the-badge&logo=github&color=6C63FF&labelColor=0D1117&label=👥%20Followers)
-![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&color=00D4FF&labelColor=0D1117&label=📦%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAaqibhafeezKhan)
-![Gists](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&color=F5C518&labelColor=0D1117&label=📝%20Gists&query=%24.public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAaqibhafeezKhan)
-
-</div>
-
----
 
 ## 🛠️ Dev Environment
-
-<div align="center">
 
 ![OS](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
 ![IDE](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -147,9 +164,9 @@ fun_fact: I treat every pull request like a published piece of writing ✍️
 
 ---
 
-## 💡 Dev Quote of the Day
-
 <div align="center">
+
+## 💡 Dev Quote of the Day
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
@@ -157,9 +174,9 @@ fun_fact: I treat every pull request like a published piece of writing ✍️
 
 ---
 
-## 💼 Why Work With Me?
-
 <div align="center">
+
+## 💼 Why Work With Me?
 
 |                          🎯 Impact-Driven                          |                        🛠️ Full Ownership                        |                  🤝 Collaborative                   |                     ⚡ Fast Delivery                      |
 | :----------------------------------------------------------------: | :-------------------------------------------------------------: | :-------------------------------------------------: | :-------------------------------------------------------: |
@@ -169,13 +186,11 @@ fun_fact: I treat every pull request like a published piece of writing ✍️
 
 ---
 
-## 🧠 Development Philosophy
-
 <div align="center">
 
-> _"Code is poetry when balanced between elegance and efficiency"_
+## 🧠 Development Philosophy
 
-</div>
+> _"Code is poetry when balanced between elegance and efficiency"_
 
 - 🏛️ **Clean Architecture First** — separation of concerns drives every design decision
 - 🧪 **Test-Driven Development** — tests are not afterthoughts, they're blueprints
@@ -184,11 +199,13 @@ fun_fact: I treat every pull request like a published piece of writing ✍️
 - 🤝 **Client-First Mindset** — your deadline and vision matter as much as clean code
 - 🤖 **AI-Augmented** — integrating AI responsibly to amplify — not replace — good engineering
 
+</div>
+
 ---
 
-## 🌐 Featured Links
-
 <div align="center">
+
+## 🌐 Featured Links
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-aaqibhafeezkhan--tech--accounts.vercel.app-6C63FF?style=for-the-badge)](https://aaqibhafeezkhan-tech-accounts.vercel.app/)
 [![IMDb Polls](https://img.shields.io/badge/🎬_IMDb_Polls-myimdbpolls.netlify.app-F5C518?style=for-the-badge)](https://myimdbpolls.netlify.app/)
@@ -211,4 +228,4 @@ _Available for freelance projects, remote roles, and technical collaborations._
 
 </div>
 
-[![committers.top badge](https://user-badge.committers.top/india/AaqibhafeezKhan.svg)](https://user-badge.committers.top/india/AaqibhafeezKhan)
+
