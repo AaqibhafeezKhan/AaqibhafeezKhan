@@ -1,0 +1,36 @@
+name: Fetch External Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/fetch-stats.yml
+
+jobs:
+  fetch-latest-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download External SVGs
+        run: |
+          mkdir -p assets
+          curl -s "https://streak-stats.demolab.com?user=AaqibhafeezKhan&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=6C63FF&fire=00D4FF&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=C9D1D9" -o assets/github-streak.svg
+          curl -s "https://user-badge.committers.top/india/AaqibhafeezKhan.svg" -o assets/committers-badge.svg
+          curl -s "https://github-readme-activity-graph.vercel.app/graph?username=AaqibhafeezKhan&theme=tokyo-night&bg_color=0D1117&color=A855F7&line=00D4FF&point=ffffff&area=true&area_color=6C63FF&hide_border=true" -o assets/activity-graph.svg
+          curl -s "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" -o assets/dev-quote.svg
+          
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update local stats" && git push)
