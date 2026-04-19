@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>While much attention has been focused on high-level software architectural patterns, what is, in effect, the de-facto standard software architecture is seldom discussed: the Big Ball of Mud.</h3>
-          <p>- Joseph Yoder (computer scientist)</p>
+          <h3>Documenting is very, very hard; it’s time-consuming. To do it right, you’ve got to do it like programming. You’ve got to deconstruct it, put it together in nice ways, rewrite it when it’s wrong. People don’t do that.</h3>
+          <p>- Ken Thompson</p>
         </div>
       </div>
     </foreignObject>
