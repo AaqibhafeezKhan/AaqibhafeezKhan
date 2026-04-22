@@ -66,8 +66,8 @@
     
         </style>
         <div class="container">
-          <h3>The Domain Name Server (DNS) is the Achilles heel of the Web.</h3>
-          <p>- Tim Berners-Lee</p>
+          <h3>Like a financial debt, the technical debt incurs interest payments, which come in the form of the extra effort that we have to do in future development because of the quick and dirty design choice.</h3>
+          <p>- Martin Fowler</p>
         </div>
       </div>
     </foreignObject>
